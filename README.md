@@ -3,6 +3,6 @@ Introduction to Artificial Neural Networks and Deep Learning, course at LTH. Too
 
 ## Repository Overview
 
-- ** Lab 1:** Trained MLPs for both classification and regression problems
+- **Lab 1:** Trained MLPs for both classification and regression problems
 
-- ** Lab 2:** Trained CNN for classification problems, trained RNN for time series prediction problem
+- **Lab 2:** Trained CNN for classification problems, trained RNN for time series prediction problem
